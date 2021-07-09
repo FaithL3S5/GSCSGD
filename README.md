@@ -1,4 +1,4 @@
-# GSCSGD
+# STREAM
 This repo is the result of Team REVOLT's hard work on Gameloft Student Competition Series: Game Development.
 
 Game Title: STREAM
