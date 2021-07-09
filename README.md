@@ -5,7 +5,7 @@ Game Title: STREAM
 
 Genre: Side Scrolling, Kayaking, Nature, Casual
 
-Developed in: Unity 19, C# for Programming, Photoshop & Paint Tool SAI for Assets, FL Studio for Sound
+Developed in: Unity 19, C# for Programming (Farishanif & FaithL3S5), Photoshop & Paint Tool SAI for Assets (Pra & FaithL3S5), FL Studio for Sound (RachmanHanafi)
 
 Result: Top 5 position in Gameloft Student Competition Series: Game Development
 
